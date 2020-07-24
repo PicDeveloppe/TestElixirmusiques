@@ -1,5 +1,6 @@
 Ceci est mon premier code sur GitHub.
 Je me suis basé sur le code source de https://html5up.net/hyperspace.
+Bien que j'ai utilisé mes capture d'écrans au format png pour les images, normalement j'aurais pris du jpg car ça prend moins de place.
 Dans le HTML, j'ai :
                     - modifé les menus et les liens afférents
                     - ajouté la section clients
@@ -10,3 +11,5 @@ Dans le CSS, j'ai :
                     - changé les couleurs des wrappers
                     - changé la couleur du menu (sidebar)
                       - changé les dégradés du menu (sidebar)
+                      
+Voilà pour tout de suite.
