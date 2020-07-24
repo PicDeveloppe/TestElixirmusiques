@@ -1,2 +1,12 @@
 Ceci est mon premier code sur GitHub.
 Je me suis basé sur le code source de https://html5up.net/hyperspace.
+Dans le HTML, j'ai :
+                    - modifé les menus et les liens afférents
+                    - ajouté la section clients
+                    - modifié les icônes dans la section philosophie
+                    - modifié tous les textes
+Dans le CSS, j'ai : 
+                    - changé la police pour body, input, select, textarea 
+                    - changé les couleurs des wrappers
+                    - changé la couleur du menu (sidebar)
+                      - changé les dégradés du menu (sidebar)
